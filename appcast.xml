@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dosido</title>
+        <item>
+            <title>0.11.1</title>
+            <pubDate>Wed, 30 Sep 2026 17:18:16 -0500</pubDate>
+            <link>https://github.com/Vibular-Tech/dosido-macos-releases/releases/tag/v0.11.1</link>
+            <sparkle:version>1790806496</sparkle:version>
+            <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Vibular-Tech/dosido-macos-releases/releases/download/v0.11.1/Dosido-0.11.1.zip" length="8177478" type="application/octet-stream" sparkle:edSignature="FR7FC9QHN2tizAWz5PtfsHX8hOSsKsRxHiJS+ELU22S4Z0aLMFCE9NpYYHNk5Bcgo3SxkZ1QsLKji7lL7K90CA=="/>
+        <description><![CDATA[
+<h2>Dosido 0.11.1</h2>
+<p>Updates now come from a new location.</p>
+]]></description>
+</item>
+    </channel>
+</rss>
