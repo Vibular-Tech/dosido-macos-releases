@@ -4,16 +4,16 @@
         <title>Dosido</title>
         <item>
             <title>0.11.3</title>
-            <pubDate>Tue, 06 Oct 2026 08:47:00 -0500</pubDate>
+            <pubDate>Tue, 06 Oct 2026 09:59:36 -0500</pubDate>
             <link>https://github.com/Vibular-Tech/dosido-macos-releases/releases/tag/v0.11.3</link>
-            <sparkle:version>1791294081</sparkle:version>
+            <sparkle:version>1791298391</sparkle:version>
             <sparkle:shortVersionString>0.11.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vibular-Tech/dosido-macos-releases/releases/download/v0.11.3/Dosido-0.11.3.zip" length="8114990" type="application/octet-stream" sparkle:edSignature="qH9aLbberd8qujgd5n/ZQoimD4QKqrhJdwM2/R8l+CSYTlkVr0p9mldZRuNUmgWcxx8CAXg+XQKLeTPsEWKiDA=="/>
+            <enclosure url="https://github.com/Vibular-Tech/dosido-macos-releases/releases/download/v0.11.3/Dosido-0.11.3.zip" length="8119601" type="application/octet-stream" sparkle:edSignature="0fkN6z+1aODUqVyByWDeSVcwXdzxTRQN1t9XjkQpvuvF3LN3kwv8a8OjfSz+9pPXQAbGlZX35Aufs8B2027FAw=="/>
         <description><![CDATA[
 <h2>Dosido 0.11.3</h2>
 <ul>
-<li>Open a version's session folder from the web. When you're looking at a version on dosido.app, the File panel shows &quot;Session · Open folder&quot;. Click it and Finder opens the Ableton, Logic, Pro Tools or FL Studio session it was bounced from. Note: this is only available for bounces you make from now on.</li>
+<li>Open a version&#x27;s session folder from the web. When you&#x27;re looking at a version on dosido.app, the File panel shows &quot;Session · Open folder&quot;. Click it and Finder opens the Ableton, Logic, Pro Tools or FL Studio session it was bounced from. Note: this is only available for bounces you make from now on.</li>
 <li>Bug fixes and improvements.</li>
 </ul>
 ]]></description>
