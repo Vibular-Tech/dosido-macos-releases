@@ -12,7 +12,10 @@
             <enclosure url="https://github.com/Vibular-Tech/dosido-macos-releases/releases/download/v0.11.3/Dosido-0.11.3.zip" length="8114990" type="application/octet-stream" sparkle:edSignature="qH9aLbberd8qujgd5n/ZQoimD4QKqrhJdwM2/R8l+CSYTlkVr0p9mldZRuNUmgWcxx8CAXg+XQKLeTPsEWKiDA=="/>
         <description><![CDATA[
 <h2>Dosido 0.11.3</h2>
-<p>Bug fixes and improvements.</p>
+<ul>
+<li>Open a version's session folder from the web. When you're looking at a version on dosido.app, the File panel shows &quot;Session · Open folder&quot;. Click it and Finder opens the Ableton, Logic, Pro Tools or FL Studio session it was bounced from. Note: this is only available for bounces you make from now on.</li>
+<li>Bug fixes and improvements.</li>
+</ul>
 ]]></description>
 </item>
     </channel>
