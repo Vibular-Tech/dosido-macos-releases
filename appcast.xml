@@ -3,6 +3,20 @@
     <channel>
         <title>Dosido</title>
         <item>
+            <sparkle:channel>beta</sparkle:channel>
+            <title>0.12.0-beta.1</title>
+            <pubDate>Thu, 15 Oct 2026 14:06:05 -0500</pubDate>
+            <link>https://github.com/Vibular-Tech/dosido-macos-releases/releases/tag/v0.12.0-beta.1</link>
+            <sparkle:version>1792090908</sparkle:version>
+            <sparkle:shortVersionString>0.12.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Vibular-Tech/dosido-macos-releases/releases/download/v0.12.0-beta.1/Dosido-0.12.0-beta.1.zip" length="8379267" type="application/octet-stream" sparkle:edSignature="5kJQt34cLVXShXldHqHfSxUnfeJk9RnxV1QiFc4z29E/tf5zieuC+NwZHrLaNGj8/fTxc9yI+RXdYufcjg56DQ=="/>
+        <description><![CDATA[
+<h2>Dosido 0.12.0-beta.1</h2>
+<p>Dosido now opens in its own window, so you can Command-Tab to it. A sidecar sits beside Ableton, Logic, Pro Tools or FL Studio and shows the track you&#x27;re working on, with its to-dos, comments and check-out. Drop an audio file on either one to upload it. The menu bar features are unchanged. ⌘Q now closes Dosido&#x27;s windows; Quit is in the menu bar menu.</p>
+]]></description>
+</item>
+        <item>
             <title>0.11.4</title>
             <pubDate>Tue, 06 Oct 2026 11:55:51 -0500</pubDate>
             <link>https://github.com/Vibular-Tech/dosido-macos-releases/releases/tag/v0.11.4</link>
