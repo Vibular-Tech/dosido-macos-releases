@@ -3,16 +3,16 @@
     <channel>
         <title>Dosido</title>
         <item>
-            <title>0.11.6</title>
-            <pubDate>Fri, 13 Nov 2026 13:27:54 -0600</pubDate>
-            <link>https://github.com/Vibular-Tech/dosido-macos-releases/releases/tag/v0.11.6</link>
-            <sparkle:version>1794597810</sparkle:version>
-            <sparkle:shortVersionString>0.11.6</sparkle:shortVersionString>
+            <title>0.11.7</title>
+            <pubDate>Mon, 16 Nov 2026 17:12:42 -0600</pubDate>
+            <link>https://github.com/Vibular-Tech/dosido-macos-releases/releases/tag/v0.11.7</link>
+            <sparkle:version>1794870584</sparkle:version>
+            <sparkle:shortVersionString>0.11.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vibular-Tech/dosido-macos-releases/releases/download/v0.11.6/Dosido-0.11.6.zip" length="8253957" type="application/octet-stream" sparkle:edSignature="YhvvhfZ+AJ2gdazWEku6RMEdroaEMuFvDzFm9nxOjWjDTrX46Wxjh8KdJ7oMP+6jbCQQsVCh5e7R+5B3LpwcBQ=="/>
+            <enclosure url="https://github.com/Vibular-Tech/dosido-macos-releases/releases/download/v0.11.7/Dosido-0.11.7.zip" length="8254404" type="application/octet-stream" sparkle:edSignature="meSo1Vr3hH/bIqPcgTic1BvQnrAN1R36rmMZrMF7vFsLchKTOgkmpYVVg8x6xfmOCBsCdX3QqHsO/IGITUU2DQ=="/>
         <description><![CDATA[
-<h2>Dosido 0.11.6</h2>
-<p>Dosido now lets you know when your version is too old to keep working, and helps you update in one click. Plus bug fixes and improvements.</p>
+<h2>Dosido 0.11.7</h2>
+<p>Bug fixes and improvements</p>
 ]]></description>
 </item>
     </channel>
